@@ -1,0 +1,10 @@
+
+- used jquery insted of javascript for drop down selection, get some ideas from the internet to code that, couldn't do comapre the product with itself.
+
+- task is responsive and compatible across browsers up to IE8.
+
+- didn't done Item title tab, for lack of time, I can do it later on if you happy with the task.
+
+- used scss for css.
+
+ 
